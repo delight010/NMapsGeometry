@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NMapsGeometry",
-            path: "Resources/NMapsGeometry/NMapsGeometry.xcframework"
+            path: "Resources/NMapsGeometry.xcframework"
         ),
     ]
 )
